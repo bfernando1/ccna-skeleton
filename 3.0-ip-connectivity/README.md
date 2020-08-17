@@ -10,55 +10,55 @@
 
 
 <!-- Section 3.1 --> 
-### [3.1] Interpret the components of routing table
+## [3.1] Interpret the components of routing table
 
-#### Routing protocol code
+### Routing protocol code
 
-#### Prefix
+### Prefix
 
-#### Network mask
+### Network mask
 
-#### Next hop
+### Next hop
 
-#### Administrative distance
+### Administrative distance
 
-#### Metric
+### Metric
 
-#### Gateway of last resort
+### Gateway of last resort
 
 <!-- Section 3.2 --> 
-### [3.2] Determine how a router makes a forwarding decision by default
+## [3.2] Determine how a router makes a forwarding decision by default
 
-#### Longest match
+### Longest match
 
-#### Administrative distance
+### Administrative distance
 
-#### Routing protocol metric
+### Routing protocol metric
 
 <!-- Section 3.3 --> 
-### [3.3] Configure and verify IPv4 and IPv6 static routing
+## [3.3] Configure and verify IPv4 and IPv6 static routing
 
-#### Default route
+### Default route
 
-#### Network route
+### Network route
 
-#### Host route
+### Host route
 
-#### Floating static
+### Floating static
 
 <!-- Section 3.4 --> 
-### [3.4] Configure and verify single area OSPFv2
+## [3.4] Configure and verify single area OSPFv2
 
-#### Neighbor adjacencies
+### Neighbor adjacencies
    
-#### Point-to-point
+### Point-to-point
 
-#### Broadcast (DR/BDR selection)
+### Broadcast (DR/BDR selection)
 
-#### Router ID
+### Router ID
 
 <!-- Section 3.5 --> 
-### [3.5] Describe the purpose of first hop redundancy protocol
+## [3.5] Describe the purpose of first hop redundancy protocol
 
 <!-- Links for ToC --> 
 [3.1]: #31-interpret-the-components-of-routing-table 

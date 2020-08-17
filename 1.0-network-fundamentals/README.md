@@ -17,98 +17,98 @@
 * [Describe switching concepts][1.12] 
 
 <!-- Section 1.1 --> 
-### [1.1] Explain the role and function of network components 
+## [1.1] Explain the role and function of network components 
 
-#### Routers
+### Routers
 
-#### L2 and L3 switches
+### L2 and L3 switches
 
-#### Next-generation firewalls and IPS
+### Next-generation firewalls and IPS
 
-#### Access points
+### Access points
 
-#### Controllers (Cisco DNA Center and WLC)
+### Controllers (Cisco DNA Center and WLC)
 
-#### Endpoints
+### Endpoints
 
-#### Servers
+### Servers
 
 <!-- Section 1.2 -->
-### [1.2] Describe characteristics of network topology architectures
+## [1.2] Describe characteristics of network topology architectures
 
-#### 2 tier
+### 2 tier
 
-#### 3 tier
+### 3 tier
 
-#### Spine-leaf
+### Spine-leaf
 
-#### WAN
+### WAN
 
-#### Small office/home office (SOHO) 
+### Small office/home office (SOHO) 
 
-#### On-premises and cloud
+### On-premises and cloud
 
 <!-- Section 1.3 --> 
-### [1.3] Compare physical interface and cabling types
+## [1.3] Compare physical interface and cabling types
 
-##### Single-mode fiber, multimode fiber, copper
+#### Single-mode fiber, multimode fiber, copper
 
-##### Connections (Ethernet shared media and point-to-point) 
+#### Connections (Ethernet shared media and point-to-point) 
 
-##### Concepts of PoE
+#### Concepts of PoE
 
 <!-- Section 1.4 -->
-### [1.4] Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)
+## [1.4] Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)
 
 <!-- Section 1.5 -->
-### [1.5] Compare TCP to UDP
+## [1.5] Compare TCP to UDP
 
 <!-- Section 1.6 --> 
-### [1.6] Configure and verify IPv4 addressing and subnetting
+## [1.6] Configure and verify IPv4 addressing and subnetting
 
 <!-- Section 1.7 --> 
-### [1.7] Describe the need for private IPv4 addressing
+## [1.7] Describe the need for private IPv4 addressing
 
 <!-- Section 1.8 -->
-### [1.8] Configure and verify IPv6 addressing and prefix
+## [1.8] Configure and verify IPv6 addressing and prefix
 
 <!-- Section 1.9 --> 
-### [1.9] Compare IPv6 address types
+## [1.9] Compare IPv6 address types
 
-#### Global unicast
+### Global unicast
 
-#### Unique local 1.9.c Link local
+### Unique local 1.9.c Link local
 
-#### Anycast
+### Anycast
 
-#### Multicast
+### Multicast
 
-#### Modified EUI 64
+### Modified EUI 64
 
 <!-- Section 1.10 --> 
-### [1.10] Verify IP parameters for Client OS (Windows, Mac OS, Linux)
+## [1.10] Verify IP parameters for Client OS (Windows, Mac OS, Linux)
 
 <!-- Section 1.11 --> 
-### [1.11] Describe wireless principles
+## [1.11] Describe wireless principles
 
-#### Nonoverlapping Wi-Fi channels 
+### Nonoverlapping Wi-Fi channels 
 
-#### SSID
+### SSID
 
-#### RF
+### RF
 
-#### Encryption
+### Encryption
 
 <!-- Section 1.12 --> 
-### [1.12] Describe switching concepts
+## [1.12] Describe switching concepts
 
-#### MAC learning and aging
+### MAC learning and aging
 
-#### Frame switching
+### Frame switching
 
-#### Frame flooding
+### Frame flooding
 
-#### MAC address table
+### MAC address table
 
 <!-- Links for ToC --> 
 [1.1]: #11-explain-the-role-and-function-of-network-components
